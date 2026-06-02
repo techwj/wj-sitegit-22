@@ -1,0 +1,88 @@
+# Validation Report - boutique-b-b-review
+
+Generated: 2026-06-02T15:38:22.849785
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Boutique B&B Review
+- ✓ Article word count OK: Beginner Boutique B&B Review: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Boutique B&B Review
+- ✓ Article word count OK: Beginner Boutique B&B Review Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Boutique B&B Review
+- ✓ Article word count OK: Beginner Boutique B&B Review in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Boutique B&B Review
+- ✓ Article word count OK: Common Mistakes in Beginner Boutique B&B Review
+- ✓ Article word count OK: Beginner Boutique B&B Review for Beginners
+- ✓ Article word count OK: Advanced Beginner Boutique B&B Review Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Boutique B&B Review
+- ✓ Article word count OK: Advanced Boutique B&B Review: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Boutique B&B Review
+- ✓ Article word count OK: Advanced Boutique B&B Review Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Boutique B&B Review
+- ✓ Article word count OK: Advanced Boutique B&B Review in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Boutique B&B Review
+- ✓ Article word count OK: Common Mistakes in Advanced Boutique B&B Review
+- ✓ Article word count OK: Advanced Boutique B&B Review for Beginners
+- ✓ Article word count OK: Advanced Advanced Boutique B&B Review Techniques
+- ✓ Article word count OK: The Ultimate Guide to Boutique B&B Review Tips
+- ✓ Article word count OK: Boutique B&B Review Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Boutique B&B Review Tips
+- ✓ Article word count OK: Boutique B&B Review Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Boutique B&B Review Tips
+- ✓ Article word count OK: Boutique B&B Review Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Boutique B&B Review Tips
+- ✓ Article word count OK: Common Mistakes in Boutique B&B Review Tips
+- ✓ Article word count OK: Boutique B&B Review Tips for Beginners
+- ✓ Article word count OK: Advanced Boutique B&B Review Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Boutique B&B Review History
+- ✓ Article word count OK: Boutique B&B Review History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Boutique B&B Review History
+- ✓ Article word count OK: Boutique B&B Review History Tips and Best Practices
+- ✓ Article word count OK: The History of Boutique B&B Review History
+- ✓ Article word count OK: Boutique B&B Review History in 2026: Current Trends
+- ✓ Article word count OK: Future of Boutique B&B Review History
+- ✓ Article word count OK: Common Mistakes in Boutique B&B Review History
+- ✓ Article word count OK: Boutique B&B Review History for Beginners
+- ✓ Article word count OK: Advanced Boutique B&B Review History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Boutique B&B Review
+- ✓ Article word count OK: Trending Boutique B&B Review: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Boutique B&B Review
+- ✓ Article word count OK: Trending Boutique B&B Review Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Boutique B&B Review
+- ✓ Article word count OK: Trending Boutique B&B Review in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Boutique B&B Review
+- ✓ Article word count OK: Common Mistakes in Trending Boutique B&B Review
+- ✓ Article word count OK: Trending Boutique B&B Review for Beginners
+- ✓ Article word count OK: Advanced Trending Boutique B&B Review Techniques
+- ✓ Article word count OK: The Ultimate Guide to Boutique B&B Review Tutorials
+- ✓ Article word count OK: Boutique B&B Review Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Boutique B&B Review Tutorials
+- ✓ Article word count OK: Boutique B&B Review Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Boutique B&B Review Tutorials
+- ✓ Article word count OK: Boutique B&B Review Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Boutique B&B Review Tutorials
+- ✓ Article word count OK: Common Mistakes in Boutique B&B Review Tutorials
+- ✓ Article word count OK: Boutique B&B Review Tutorials for Beginners
+- ✓ Article word count OK: Advanced Boutique B&B Review Tutorials Techniques
+- ✓ Ad configuration validated

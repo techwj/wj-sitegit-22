@@ -1,0 +1,59 @@
+{
+  "siteId": "boutique-b-b-review",
+  "generatedAt": "2026-06-02T15:38:22.850092",
+  "categories": [
+    "beginner-boutique-b-b-review",
+    "advanced-boutique-b-b-review",
+    "tips-boutique-b-b-review",
+    "history-boutique-b-b-review",
+    "trending-boutique-b-b-review",
+    "tutorials-boutique-b-b-review"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-boutique-b-b-review",
+      "category_name": "Beginner Boutique B&B Review"
+    },
+    {
+      "category_slug": "advanced-boutique-b-b-review",
+      "category_name": "Advanced Boutique B&B Review"
+    },
+    {
+      "category_slug": "tips-boutique-b-b-review",
+      "category_name": "Boutique B&B Review Tips"
+    },
+    {
+      "category_slug": "history-boutique-b-b-review",
+      "category_name": "Boutique B&B Review History"
+    },
+    {
+      "category_slug": "trending-boutique-b-b-review",
+      "category_name": "Trending Boutique B&B Review"
+    },
+    {
+      "category_slug": "tutorials-boutique-b-b-review",
+      "category_name": "Boutique B&B Review Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "boutique-b-b-review",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Boutique B&B Review Central",
+    "articles_per_row": 2
+  }
+}
